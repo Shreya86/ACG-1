@@ -49,6 +49,34 @@ body {
 }
 
 
+@media screen and (min-width: 1920px)
+{
+  .icon-box{
+    padding: 80px 0px 0 !important;
+  
+  }
+
+  .icon-box_1{
+    
+    padding: 80px 0px 0 !important;
+  
+  }
+
+  .icon-box .icon {
+    
+    margin-bottom: 60px !important;
+    
+}
+
+.icon-box_1 .icon {
+    
+  margin-bottom: 60px !important;
+  
+}
+
+
+}
+
 .row_heading_details{
   height: auto;
   width: 100%;
